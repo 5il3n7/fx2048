@@ -13,7 +13,7 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
 /**
- * @author bruno.borges@oracle.com
+ * @author genesisxyz
  */
 public class Game2048 extends Application {
 
